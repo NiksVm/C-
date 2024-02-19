@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/C-/Task3/bin/Debug/net7.0/Task3
+/Users/niks/Desktop/c#/C-/Task3/bin/Debug/net7.0/Task3.deps.json
+/Users/niks/Desktop/c#/C-/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/Users/niks/Desktop/c#/C-/Task3/bin/Debug/net7.0/Task3.dll
+/Users/niks/Desktop/c#/C-/Task3/bin/Debug/net7.0/Task3.pdb
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.dll
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/refint/Task3.dll
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.pdb
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/Users/niks/Desktop/c#/C-/Task3/obj/Debug/net7.0/ref/Task3.dll
