@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/C-/Task5/bin/Debug/net7.0/Task5
+/Users/niks/Desktop/c#/C-/Task5/bin/Debug/net7.0/Task5.deps.json
+/Users/niks/Desktop/c#/C-/Task5/bin/Debug/net7.0/Task5.runtimeconfig.json
+/Users/niks/Desktop/c#/C-/Task5/bin/Debug/net7.0/Task5.dll
+/Users/niks/Desktop/c#/C-/Task5/bin/Debug/net7.0/Task5.pdb
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.AssemblyInfo.cs
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.dll
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/refint/Task5.dll
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.pdb
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/Task5.genruntimeconfig.cache
+/Users/niks/Desktop/c#/C-/Task5/obj/Debug/net7.0/ref/Task5.dll
