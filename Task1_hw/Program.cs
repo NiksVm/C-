@@ -16,3 +16,27 @@ if (c == d)
 {
     Console.WriteLine("Числа равны");
 }
+
+// ## Задача 2
+// Максимальное из трех чисел
+
+int x = 999;
+int y = 999;
+int z = 999;
+
+if (x > y && x > z)
+{
+    Console.WriteLine(x);
+}
+if (y > x && y > z)
+{
+    Console.WriteLine(y);
+}
+if (z > x && z > y)
+{
+    Console.WriteLine(z);
+}
+if (((z + x + y)/3)==x)
+{
+    Console.WriteLine("Числа равны");
+}
