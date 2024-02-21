@@ -20,6 +20,7 @@ if (c == d)
 // ## Задача 2
 // Максимальное из трех чисел
 // оператор && - используется как "И" доп условие
+// Варинат 1
 
 /*int x = 5;
 int y = 6;
@@ -42,9 +43,9 @@ if (((z + x + y)/3)==x)
     Console.WriteLine("Числа равны");
 }*/
 
+// Варинат 2
 
-
-int a = 10;
+/*int a = 10;
 int b = 11;
 int z = 2;
 
@@ -56,6 +57,18 @@ if (b > result)
 if (c > result)
 {result = z;}
 
+Console.WriteLine(result);*/
 
-//return result;
-Console.WriteLine(result);
+
+// ## Задача 3
+
+int v = 5;
+
+if ((v % 2) == 0)
+{
+    Console.WriteLine("chentoe");
+}
+else
+{
+    Console.WriteLine("nechentoe");
+}
