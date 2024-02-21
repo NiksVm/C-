@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.AssemblyInfo.cs
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/C-/Task1_hw/bin/Debug/net7.0/Task1_hw
+/Users/niks/Desktop/c#/C-/Task1_hw/bin/Debug/net7.0/Task1_hw.deps.json
+/Users/niks/Desktop/c#/C-/Task1_hw/bin/Debug/net7.0/Task1_hw.runtimeconfig.json
+/Users/niks/Desktop/c#/C-/Task1_hw/bin/Debug/net7.0/Task1_hw.dll
+/Users/niks/Desktop/c#/C-/Task1_hw/bin/Debug/net7.0/Task1_hw.pdb
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.dll
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/refint/Task1_hw.dll
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.pdb
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/Task1_hw.genruntimeconfig.cache
+/Users/niks/Desktop/c#/C-/Task1_hw/obj/Debug/net7.0/ref/Task1_hw.dll
