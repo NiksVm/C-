@@ -19,10 +19,11 @@ if (c == d)
 
 // ## Задача 2
 // Максимальное из трех чисел
+// оператор && - используется как "И" доп условие
 
-int x = 999;
-int y = 999;
-int z = 999;
+/*int x = 5;
+int y = 6;
+int z = 7;
 
 if (x > y && x > z)
 {
@@ -39,4 +40,22 @@ if (z > x && z > y)
 if (((z + x + y)/3)==x)
 {
     Console.WriteLine("Числа равны");
-}
+}*/
+
+
+
+int a = 10;
+int b = 11;
+int z = 2;
+
+int result = a;
+
+if (b > result)
+{result = b;}
+
+if (c > result)
+{result = z;}
+
+
+//return result;
+Console.WriteLine(result);
