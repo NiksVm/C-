@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/bin/Debug/net7.0/Lesson2_seminar
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/bin/Debug/net7.0/Lesson2_seminar.deps.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/bin/Debug/net7.0/Lesson2_seminar.runtimeconfig.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/bin/Debug/net7.0/Lesson2_seminar.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/bin/Debug/net7.0/Lesson2_seminar.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.AssemblyInfo.cs
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/refint/Lesson2_seminar.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/Lesson2_seminar.genruntimeconfig.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson2_seminar/obj/Debug/net7.0/ref/Lesson2_seminar.dll
