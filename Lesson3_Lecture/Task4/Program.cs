@@ -15,3 +15,28 @@ while (i < n)
     i = i + 1;
 }
 Console.WriteLine(max);
+
+
+// Пример применения цикла FOR
+max = array[0];
+for(int j = 0; j < n; j++)
+{
+     if (array[j] > max)
+    {
+        max = array[j];
+    }
+  
+}
+Console.WriteLine(max);
+
+// Пример применения цикла FOREACH
+max = array[0];
+foreach(int e in array)
+{
+   if (e > max)     // в отличии от предыдущего варианта где указывается индекс массива, здесь она не нужна, 
+                    //т.к. используется переменная(особенноть цикла foreach)
+    {
+        max = e;    // тут аналогично - не используется цикл, используется переменая(особенноть цикла foreach)
+    } 
+}
+Console.WriteLine(max);
