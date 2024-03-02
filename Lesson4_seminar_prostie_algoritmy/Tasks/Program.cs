@@ -86,8 +86,8 @@ else
 */
 // 2-ой вариант решения задачи
 
-Console.Write("Введите число:");
-/*int w1 = Convert.ToInt32(value: Console.ReadLine());
+/*Console.Write("Введите число:");
+int w1 = Convert.ToInt32(value: Console.ReadLine());
 // w1 < 100 -> говорит нам о том что 3-ей цифры нет
 int w2 = 0;
 if (w1 < 100)
@@ -105,8 +105,9 @@ else
 }
 */
 
+// 3-bq вариант решения задачи
 
-
+Console.Write("Введите число:");
 string w1 = Console.ReadLine()!;
 if (w1.Length < 3)
 {
@@ -115,4 +116,5 @@ if (w1.Length < 3)
 else 
 {
     Console.WriteLine(w1[2]);
+
 }
