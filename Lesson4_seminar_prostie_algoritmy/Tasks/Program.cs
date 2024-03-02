@@ -105,8 +105,8 @@ else
 }
 */
 
-// 3-bq вариант решения задачи
-
+// 3-ья вариант решения задачи
+/*
 Console.Write("Введите число:");
 string w1 = Console.ReadLine()!;
 if (w1.Length < 3)
@@ -116,5 +116,14 @@ if (w1.Length < 3)
 else 
 {
     Console.WriteLine(w1[2]);
-
 }
+*/
+
+// то что может пригодиться при выполнении ДЗ
+int i = 1;
+while (i < 10)
+{
+    Console.Write($"{i}, ");
+    i++;
+}
+Console.Write("\b\b "); // "\b" - смещение на один знак влево
