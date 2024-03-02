@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/niks/Desktop/c#/C-/Task1_hw/Task1_hw.csproj": {}
+    "/Users/niks/Desktop/c#/Programming-languages/Task1_hw/Task1_hw.csproj": {}
   },
   "projects": {
-    "/Users/niks/Desktop/c#/C-/Task1_hw/Task1_hw.csproj": {
+    "/Users/niks/Desktop/c#/Programming-languages/Task1_hw/Task1_hw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niks/Desktop/c#/C-/Task1_hw/Task1_hw.csproj",
+        "projectUniqueName": "/Users/niks/Desktop/c#/Programming-languages/Task1_hw/Task1_hw.csproj",
         "projectName": "Task1_hw",
-        "projectPath": "/Users/niks/Desktop/c#/C-/Task1_hw/Task1_hw.csproj",
+        "projectPath": "/Users/niks/Desktop/c#/Programming-languages/Task1_hw/Task1_hw.csproj",
         "packagesPath": "/Users/niks/.nuget/packages/",
-        "outputPath": "/Users/niks/Desktop/c#/C-/Task1_hw/obj/",
+        "outputPath": "/Users/niks/Desktop/c#/Programming-languages/Task1_hw/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niks/.nuget/NuGet/NuGet.Config"
