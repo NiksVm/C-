@@ -29,7 +29,7 @@ while (count > 0)
 // [1, 2, 4, 6, 7] вводим 9 -> Нет
 
 // РЕШЕНИЕ
-
+/*
 Console.Write("Введите размерность массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] mas = new int [n];
@@ -126,4 +126,39 @@ else
 {
     if (c_R > 0) Console.WriteLine("Искомый элемент найден в массиве new_mas");
     if (c_C > 0) Console.WriteLine("Искомый элемент найден в массиве new_mas2");
+}*/
+
+// Задача 2
+// Задайте массив на 10 элементов, заполненный числами из промежутка [-10, 10].
+// Замените отрицательные элементы на положительные, а положительные на отрицательные.
+// ПРИМЕР
+// [1, -5, 6] -> [-1, 5, -6]
+
+// РЕШЕНИЕ
+void RandomFillArray(int[] arr)
+{
+    for(int i = 0; i < arr.Length; i++)
+    {
+        Random rnd = new Random();
+        arr[i] = rnd.Next(minValue: -10, maxValue: 10);
+    }
 }
+void PrintArrayToScreen(int[] arr)
+{
+    foreach (var e in arr) { Console.Write($"{e} ");}
+    Console.WriteLine();
+}
+
+int[] array = new int[10];
+RandomFillArray(arr: array);
+
+PrintArrayToScreen(array);
+
+for(int i = 0; i < array.Length; i++)
+{
+    array[i] *= -1;
+}
+
+PrintArrayToScreen(array);
+
+
