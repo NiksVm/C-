@@ -170,7 +170,7 @@ PrintArrayToScreen(array);
 // ПРИМЕР
 // [1, 3, 2, 4, 2, 3] - > [3, 6, 8]
 // РЕШЕНИЕ
-
+/*
 void Print_mas(int[] col)
 {
     foreach (var item in col)
@@ -206,3 +206,34 @@ for (int i = 0; i < mas_new.Length; i++)
 }
 
 Print_mas(mas_new);
+*/
+
+// Задача 4
+// Дано натуральное трехзначное число. Создайте массив, состоящий из
+// Цифр этого числа. Младший разряд числа должен распологаться на 
+// нулевом индексе массива, старшщий на 2-ом.
+// ПРИМЕР
+// 456 => [6, 5, 4]
+// 781 => [1, 8, 7]
+
+// РЕШЕНИЕ
+using System.ComponentModel;
+
+void Print_mas(int[] col)
+{
+    foreach (var item in col)
+    {
+        Console.Write($"{item} ");
+    }
+    Console.WriteLine();
+}
+int n = new Random().Next(100, 1000);
+Console.WriteLine(n);
+
+int[] mas = new int[3];
+for (int i = 0; i < mas.Length; i++)
+{
+    mas[i] = n % 10;
+    n /= 10;
+}
+Print_mas(mas);
