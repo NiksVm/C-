@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/bin/Debug/net7.0/Homework_Massivy
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/bin/Debug/net7.0/Homework_Massivy.deps.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/bin/Debug/net7.0/Homework_Massivy.runtimeconfig.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/bin/Debug/net7.0/Homework_Massivy.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/bin/Debug/net7.0/Homework_Massivy.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.AssemblyInfo.cs
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/refint/Homework_Massivy.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/Homework_Massivy.genruntimeconfig.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson5_seminar_Massivy/Homework_Massivy/obj/Debug/net7.0/ref/Homework_Massivy.dll
