@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfo.cs
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/bin/Debug/net7.0/Tasks
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/bin/Debug/net7.0/Tasks.deps.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/bin/Debug/net7.0/Tasks.runtimeconfig.json
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/bin/Debug/net7.0/Tasks.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/bin/Debug/net7.0/Tasks.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/refint/Tasks.dll
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.pdb
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/Tasks.genruntimeconfig.cache
+/Users/niks/Desktop/c#/Programming-languages/Lesson7_seminar_Function/Tasks/obj/Debug/net7.0/ref/Tasks.dll
