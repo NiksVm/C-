@@ -72,7 +72,7 @@ Console.WriteLine(prost(9));
 
 // [1, 5, 11, 21, 81, 4, 0 91, 2, 3] => 2
 
-
+/*
 int[] FillRandowArray(int size)
 {
     int[] arr = new int[size];
@@ -126,4 +126,53 @@ int[] arr = FillRandowArray(length);
 Print_mas(arr);
 Console.WriteLine($"Количество чисел удовлетворяющих условия: {IsInteresting(arr)}");
 
+*/
 
+// Задача 3. 
+// Заполните массив на N (вводиться с консоли, не более 8)
+// случайных целых чисел от 0 до 9
+
+// Сформируйте целое число, которое будет состоять из цифр из массива. 
+// Старший разряд числа находится на 0-м индексе, младший на последнем.
+// Пример
+
+// [1,3,2,4,2,3] => 132423
+// [2,3,1] => 231
+
+
+
+int[] FillRandowArray(int size) // создание случайного массива
+{
+    int[] arr = new int[size];
+    for ( int i = 0; i < arr.Length; i++)
+    {
+        arr[i] = new Random().Next(minValue: 0, maxValue: 10);
+    }
+    return arr;
+}
+
+void Print_mas(int[] mas) // Создаем функцию на вывод массива
+{
+    foreach (var i in mas)
+    {
+        Console.Write($"{i} ");
+    }
+    Console.WriteLine();
+} 
+
+int num(int[] col)
+{
+    int n = 0;
+    foreach (var item in col)
+    {
+        n = n * 10 + item;
+    }
+    return n;
+}
+
+
+Console.Write("Введите размерность одномерного массива: ");
+int length = Convert.ToInt32(Console.ReadLine());
+int[] arr = FillRandowArray(length);
+Print_mas(arr);
+Console.WriteLine(num(arr));
