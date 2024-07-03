@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/bin/Debug/net7.0/Sem3_Massiv
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/bin/Debug/net7.0/Sem3_Massiv.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/bin/Debug/net7.0/Sem3_Massiv.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/bin/Debug/net7.0/Sem3_Massiv.dll
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/bin/Debug/net7.0/Sem3_Massiv.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.dll
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/refint/Sem3_Massiv.dll
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/Sem3_Massiv.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem3_Massiv/obj/Debug/net7.0/ref/Sem3_Massiv.dll

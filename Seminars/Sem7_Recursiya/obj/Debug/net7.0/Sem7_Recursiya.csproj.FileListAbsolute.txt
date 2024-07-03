@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/bin/Debug/net7.0/Sem7_Recursiya
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/bin/Debug/net7.0/Sem7_Recursiya.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/bin/Debug/net7.0/Sem7_Recursiya.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/bin/Debug/net7.0/Sem7_Recursiya.dll
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/bin/Debug/net7.0/Sem7_Recursiya.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.dll
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/refint/Sem7_Recursiya.dll
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/Sem7_Recursiya.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/Debug/net7.0/ref/Sem7_Recursiya.dll

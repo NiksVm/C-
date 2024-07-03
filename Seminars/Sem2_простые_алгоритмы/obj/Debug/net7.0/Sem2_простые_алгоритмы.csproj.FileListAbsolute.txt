@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/bin/Debug/net7.0/Sem2_простые_алгоритмы
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/bin/Debug/net7.0/Sem2_простые_алгоритмы.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/bin/Debug/net7.0/Sem2_простые_алгоритмы.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/bin/Debug/net7.0/Sem2_простые_алгоритмы.dll
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/bin/Debug/net7.0/Sem2_простые_алгоритмы.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.dll
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/refint/Sem2_простые_алгоритмы.dll
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/Sem2_простые_алгоритмы.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem2_простые_алгоритмы/obj/Debug/net7.0/ref/Sem2_простые_алгоритмы.dll

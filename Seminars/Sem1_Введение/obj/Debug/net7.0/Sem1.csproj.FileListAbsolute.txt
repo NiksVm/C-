@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem1/bin/Debug/net7.0/Sem1
+/Users/niks/Desktop/с#2/Seminars/Sem1/bin/Debug/net7.0/Sem1.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem1/bin/Debug/net7.0/Sem1.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem1/bin/Debug/net7.0/Sem1.dll
+/Users/niks/Desktop/с#2/Seminars/Sem1/bin/Debug/net7.0/Sem1.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.dll
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/refint/Sem1.dll
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/Sem1.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem1/obj/Debug/net7.0/ref/Sem1.dll

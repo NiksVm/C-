@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sem7_Recursiya/1.0.0": {
+        "runtime": {
+          "Sem7_Recursiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem7_Recursiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/bin/Debug/net7.0/Sem6_Massiv_&_rows
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/bin/Debug/net7.0/Sem6_Massiv_&_rows.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/bin/Debug/net7.0/Sem6_Massiv_&_rows.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/bin/Debug/net7.0/Sem6_Massiv_&_rows.dll
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/bin/Debug/net7.0/Sem6_Massiv_&_rows.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.dll
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/refint/Sem6_Massiv_&_rows.dll
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/Sem6_Massiv_&_rows.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem6_Massiv_&_rows/obj/Debug/net7.0/ref/Sem6_Massiv_&_rows.dll

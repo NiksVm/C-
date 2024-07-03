@@ -1,0 +1,14 @@
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.AssemblyInfoInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.AssemblyInfo.cs
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/bin/Debug/net7.0/Sem4_Function
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/bin/Debug/net7.0/Sem4_Function.deps.json
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/bin/Debug/net7.0/Sem4_Function.runtimeconfig.json
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/bin/Debug/net7.0/Sem4_Function.dll
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/bin/Debug/net7.0/Sem4_Function.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.dll
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/refint/Sem4_Function.dll
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.pdb
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/Sem4_Function.genruntimeconfig.cache
+/Users/niks/Desktop/с#2/Seminars/Sem4_Function/obj/Debug/net7.0/ref/Sem4_Function.dll
