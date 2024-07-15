@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/Sem3_Massiv.csproj",
-      "projectName": "Sem3_Massiv",
-      "projectPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/Sem3_Massiv.csproj",
+      "projectUniqueName": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/hW.csproj",
+      "projectName": "hW",
+      "projectPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/hW.csproj",
       "packagesPath": "/Users/niks/.nuget/packages/",
-      "outputPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/obj/",
+      "outputPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niks/.nuget/NuGet/NuGet.Config"

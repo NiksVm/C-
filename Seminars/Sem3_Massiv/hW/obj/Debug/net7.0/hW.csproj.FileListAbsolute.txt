@@ -1,0 +1,14 @@
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.AssemblyInfoInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.AssemblyInfo.cs
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.csproj.CoreCompileInputs.cache
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/bin/Debug/net7.0/hW
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/bin/Debug/net7.0/hW.deps.json
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/bin/Debug/net7.0/hW.runtimeconfig.json
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/bin/Debug/net7.0/hW.dll
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/bin/Debug/net7.0/hW.pdb
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.dll
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/refint/hW.dll
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.pdb
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/hW.genruntimeconfig.cache
+/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem3_Massiv/hW/obj/Debug/net7.0/ref/hW.dll
