@@ -26,16 +26,17 @@
 
 
 // Возвращаемся к нашему заданию 1.
-
-// int SumOfDigits(int num)    //456
-// {
-//     if (num > 0)
-//     {
-//         return num % 10 + SumOfDigits(num / 10);
-//     }
-//     return 0;       // Некая заглушка, в любом случае нужно написать return
-// }
-// Console.WriteLine(SumOfDigits(456));
+Console.WriteLine("Введите число: ");
+ int n = Convert.ToInt32(Console.ReadLine());
+int SumOfDigits(int num)    //456
+{
+    if (num > 0)
+    {
+        return num % 10 + SumOfDigits(num / 10);
+    }
+    return 0;       // Некая заглушка, в любом случае нужно написать return
+}
+Console.WriteLine(SumOfDigits(n));
 
 // Задание 2
 // Напишите программу, которая принимает на вход 2 числа A и В, и возводит число А в целую степень В с помощью рекурсии

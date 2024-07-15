@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/Sem7_Recursiya.csproj",
+      "projectUniqueName": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem7_Recursiya/Sem7_Recursiya.csproj",
       "projectName": "Sem7_Recursiya",
-      "projectPath": "/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/Sem7_Recursiya.csproj",
+      "projectPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem7_Recursiya/Sem7_Recursiya.csproj",
       "packagesPath": "/Users/niks/.nuget/packages/",
-      "outputPath": "/Users/niks/Desktop/с#2/Seminars/Sem7_Recursiya/obj/",
+      "outputPath": "/Users/niks/Desktop/c#/Programming-languages/Seminars/Sem7_Recursiya/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niks/.nuget/NuGet/NuGet.Config"
